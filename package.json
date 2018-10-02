@@ -16,6 +16,9 @@
   ],
   "author": "Greg Sexton",
   "license": "Apache 2.0",
+  "peerDependencies": {
+    "lodash": "^4.17.11"
+  },
   "devDependencies": {
     "chai": "^1.10.0",
     "jsonpatch": "^1.0.1",
